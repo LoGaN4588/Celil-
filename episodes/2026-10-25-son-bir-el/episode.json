@@ -1,0 +1,116 @@
+{
+  "konu": "\"Son bir el\" neden hiç son olmuyor?",
+  "baslik": [
+    "Son bir el diyorsun ama...",
+    "Saat sabahın 4'ü 💀"
+  ],
+  "kapak": {
+    "ust": "Gamer gerçekleri",
+    "buyuk": "*Son bir el* asla son değil",
+    "alt": "3 sebep + çözüm 👇",
+    "emoji": "🎮"
+  },
+  "kartlar": [
+    {
+      "tetik": "Son bir el diyorsun",
+      "tip": "hook",
+      "emoji": "🕓",
+      "metin": "Son bir el...\nSaat 04:00"
+    },
+    {
+      "tetik": "Hadi itiraf et",
+      "tip": "emoji",
+      "emoji": "🙋",
+      "baslik": "İtiraf vakti",
+      "metin": "Bunu herkes yaşadı"
+    },
+    {
+      "tetik": "Birinci sebep",
+      "tip": "balon",
+      "kim": "Beynin",
+      "emoji": "🧠",
+      "metin": "Böyle bitmez!"
+    },
+    {
+      "tetik": "İkinci sebep",
+      "tip": "karsilastirma",
+      "sol": {
+        "emoji": "🔥",
+        "baslik": "Seri",
+        "metin": "5 galibiyet üst üste"
+      },
+      "sag": {
+        "emoji": "🛏️",
+        "baslik": "Uyku",
+        "metin": "Bekleyebilir..."
+      }
+    },
+    {
+      "tetik": "Üçüncü sebep",
+      "tip": "basarim",
+      "emoji": "⚡",
+      "baslik": "Eşleşme bulundu",
+      "metin": "Kader seni çağırıyor"
+    },
+    {
+      "tetik": "Bir de o arkadaş",
+      "tip": "balon",
+      "kim": "Kanka",
+      "emoji": "😏",
+      "metin": "Bir tane daha atalım!"
+    },
+    {
+      "tetik": "tamamen bilimsel olmayan",
+      "tip": "sayi",
+      "emoji": "🧪",
+      "deger": 4,
+      "sonek": " el",
+      "metin": "\"Son bir el\"in ortalama süresi"
+    },
+    {
+      "tetik": "Sabah alarm",
+      "tip": "can",
+      "emoji": "😵",
+      "baslik": "ENERJİ",
+      "baslangic": 100,
+      "bitis": 5,
+      "metin": "Ama rank atladın 😎"
+    },
+    {
+      "tetik": "Çözüm mü",
+      "tip": "liste",
+      "emoji": "💡",
+      "baslik": "Çözüm",
+      "maddeler": [
+        {
+          "metin": "Maçtan önce alarm kur",
+          "emoji": "⏰",
+          "tetik": "alarm kur"
+        },
+        {
+          "metin": "Telefonu uzağa koy",
+          "emoji": "📱",
+          "tetik": "telefonu odanın"
+        }
+      ]
+    },
+    {
+      "tetik": "Sen kaç",
+      "tip": "emoji",
+      "emoji": "💬",
+      "baslik": "Sıra sende",
+      "metin": "Kaç \"son bir el\" atıyorsun?"
+    }
+  ],
+  "aciklama": "\"Son bir el\" deyip sabahı eden tek ben miyim? 🎮💀\n\n3 sebebi ve çözümü videoda. Sen kaç \"son bir el\" atıyorsun? Yorumlara yaz 👇\n\nTakip et: @gamergamesofficial",
+  "etiketler": [
+    "#gamer",
+    "#oyun",
+    "#sonbirel",
+    "#gaming",
+    "#oyuncu",
+    "#gamerlife",
+    "#türkgamer",
+    "#reels"
+  ]
+}

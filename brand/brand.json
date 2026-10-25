@@ -1,0 +1,16 @@
+{
+  "kullanici_adi": "@gamergamesofficial",
+  "ton": "esprili-samimi",
+  "logo": null,
+  "renkler": {
+    "ana": "#8B5CF6",
+    "vurgu": "#B6FF3B",
+    "ikinci": "#22D3EE",
+    "koyu": "#0F0A24",
+    "acik": "#FFFFFF"
+  },
+  "ses_efektleri": true,
+  "muzik": null,
+  "muzik_seviyesi": 0.07,
+  "whisper_model": "small"
+}

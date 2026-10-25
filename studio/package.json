@@ -1,0 +1,22 @@
+{
+  "name": "reels-studio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "onizle": "remotion studio",
+    "video": "remotion render Reel",
+    "kapak": "remotion still Cover"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "@remotion/fonts": "4.0.535",
+    "remotion": "4.0.535",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@fontsource/baloo-2": "5.2.6",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
